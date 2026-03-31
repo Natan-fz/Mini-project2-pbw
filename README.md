@@ -21,7 +21,8 @@ Website ini menggunakan Bootstrap untuk sistem grid dan layout responsif, serta 
 
 
 
-<img width="1898" height="90" alt="image" src="https://github.com/user-attachments/assets/0fcc0b08-557a-4ab2-9dbe-3532a2fbeacb" />
+<img width="1887" height="70" alt="image" src="https://github.com/user-attachments/assets/3c84dc41-54f1-413c-b7af-d095ef545975" />
+
 
 
 Penjelasan:
@@ -67,7 +68,8 @@ Pada bagian CSS, class .custom-navbar digunakan untuk mengatur:
 **2.2 Hero Section**
 
 
-<img width="1917" height="1074" alt="image" src="https://github.com/user-attachments/assets/16ce73ce-abd0-4059-836c-7680d0f53740" />
+<img width="1894" height="816" alt="image" src="https://github.com/user-attachments/assets/d3898c5f-9255-4ab7-a7e5-42df3453f6ff" />
+
 
 
 Penjelasan:
@@ -114,7 +116,8 @@ Pada bagian CSS:
 
 
 
-<img width="1919" height="1079" alt="image" src="https://github.com/user-attachments/assets/bea5d435-2e6c-44d3-a33f-73935c8a90f2" />
+<img width="1890" height="550" alt="image" src="https://github.com/user-attachments/assets/0bc4cb10-4c6c-4750-b1f3-cea56da8ab49" />
+
 
 
 Penjelasan:
@@ -159,7 +162,8 @@ Pada CSS:
 
 
 
-<img width="1914" height="1074" alt="image" src="https://github.com/user-attachments/assets/4191f37f-4fd2-424f-853e-179d9bf6695e" />
+<img width="1874" height="805" alt="image" src="https://github.com/user-attachments/assets/e586b762-9292-4225-9793-ef5c755c32f1" />
+
 
 
 Penjelasan:
@@ -256,3 +260,5 @@ Digunakan untuk rendering dinamis pada bagian skills menggunakan directive v-for
 
 TypeScript
 Digunakan pada bagian script setup untuk mendukung penulisan kode yang lebih terstruktur.
+
+
