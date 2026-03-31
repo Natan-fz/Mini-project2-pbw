@@ -50,7 +50,7 @@ Status sebagai mahasiswa Sistem Informasi
 
 Deskripsi singkat
 
-Foto profil
+Foto profil 
 
 Section ini dibagi menjadi dua kolom menggunakan grid Bootstrap (row dan col-md-6):
 
