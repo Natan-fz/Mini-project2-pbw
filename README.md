@@ -102,7 +102,6 @@ Judul sertifikat
 Deskripsi singkat
 
 
-TypeScript
-Digunakan pada bagian script setup untuk mendukung penulisan kode yang lebih terstruktur.
+
 
 
